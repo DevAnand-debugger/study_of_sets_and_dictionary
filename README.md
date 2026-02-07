@@ -2,9 +2,6 @@
 learning sets and dictionary
 # 📘 Study of Sets and Dictionaries in Python
 
-**Name:** Dev Anand
-**PRN:** 25070123039
-**Batch:** A2
 **Title:** To Study Sets and Dictionaries in Python
 
 ---
